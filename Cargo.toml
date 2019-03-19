@@ -1,0 +1,10 @@
+[package]
+name = "hexae"
+version = "0.1.0"
+authors = ["iancormac84 <wilnathan@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+lazy_static = "*"
+nalgebra = "0.17.3"
+rand = "0.6.5"
