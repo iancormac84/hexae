@@ -6,5 +6,5 @@ edition = "2018"
 
 [dependencies]
 lazy_static = "*"
-nalgebra = "0.17.3"
-rand = "0.6.5"
+nalgebra = "*"
+rand = "*"
